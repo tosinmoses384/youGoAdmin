@@ -29,6 +29,37 @@
       <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
     </ul>
+
+      <!-- HEADER-->
+        <h1 class="ui small header">Heading 1</h1>
+        <h2 class="ui tiny header">Heading 2</h2>
+        <h3 class="ui medium header">Heading 3</h3>
+        <h4 class="ui large header">Heading 4</h4>
+        <h5 class="ui huge header">Heading 5</h5>
+        <h6 class="ui small header">Heading 6</h6>
+
+        <hr>
+
+        <!--BUTTONS-->
+        <button class="ui button">Read More</button>
+        <button class="ui primary button">Read More</button>
+        <button class="ui secondary button">Read More</button>
+        <button class="ui positive button">Read More</button>
+        <button class="ui negative button">Read More</button>
+        <br><br>
+        <button class="ui disabled red button">Read More</button>
+        <button class="ui loading blue button">Read More</button>
+        <button class="ui green button">Read More</button>
+        <button class="ui massive purple button">Read More</button>
+        <button class="ui huge yellow button">Read More</button>
+        <button class="ui big brown button">Read More</button>
+        <button class="ui large orange button">Read More</button>
+        <button class="ui medium olive button">Read More</button>
+        <button class="ui small teal button">Read More</button>
+        <button class="ui tiny violet button">Read More</button>
+        <button class="ui mini grey button">Read More</button>
+        <br><br>
+
   </div>
 </template>
 
